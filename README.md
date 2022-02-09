@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kevin
-- 👀 I’m interested in Basketball! Recently I am watching NBA playoffs, this year playoffs is amazing.
+- 👋 Hi, I’m Yukai
 - 🌱 I’m currently learning Computer Science in University of Waterloo. 
+- 👀 I’m interested in Basketball!
 - 📫 Contact me by email: y3229wan@uwaterloo.ca
 
 <!---
