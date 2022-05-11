@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yukai
 - 🌱 I’m currently learning Computer Science in University of Waterloo. 
-- 👀 I’m interested in Basketball!
+- 👀 Future Software Engineer!
 - 📫 Contact me by email: y3229wan@uwaterloo.ca
 
 <!---
